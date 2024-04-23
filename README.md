@@ -1,6 +1,8 @@
 # Overview of SSI Agents and their Characteristics
 
-The actual overview can be found [here](https://FindyFi.github.io/wallet-overview/).
+This repository is outdated. Please see the OpenWallet Foundation's [digital wallet and agent overview](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig) instead.
+
+The rendered overview can be found [here](https://FindyFi.github.io/wallet-overview/).
 
 This is a fork of the repository for [TNO's overview of SSI wallets](https://github.com/tno-ssi-lab/wallet-overview).
 
